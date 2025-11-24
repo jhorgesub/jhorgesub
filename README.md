@@ -4,6 +4,18 @@
 
 Proactive, responsible, analytical and curious with a great capacity for solving problems and tackling challenges, always focused on achieving effective solutions. Committed to the continuous learning of new technologies to maximize my performance and bring value to the team.
 
+---
+## 📬 Connect with me
+
+I'm always open to discussing new projects, collaborations, and opportunities.
+
+<a href="(https://www.linkedin.com/in/jorgesubeldia/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+<a href="subel.jorgeto@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+</a>
+
 ## 🛠️ Tech Stack and Tools
 
 <img src="https://img.shields.io/badge/Java-D92114?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /> 
